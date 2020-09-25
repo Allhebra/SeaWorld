@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vinted:actioncable-client-kotlin:0.4.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vinted/actioncable-client-kotlin/0.4.2/e3765f02a24bde6453c31a7781406bb97dcedf9f/actioncable-client-kotlin-0.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vinted/actioncable-client-kotlin/0.4.2/9c7d456812235a34f5ecce05ff43ff4a3c0fdd54/actioncable-client-kotlin-0.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vinted/actioncable-client-kotlin/0.4.2/6034abf82300519321e18746201683acb275efdc/actioncable-client-kotlin-0.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
